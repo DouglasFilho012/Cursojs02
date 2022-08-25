@@ -35,3 +35,5 @@ switch (diase) {
 }
 console.log(`Você está no ano de ${ano}, no dia de semana ${switch1}, as exatas ${hora} horas, ${minutos} minutos, ${segundos} segundos e ${milisegundos} milisegundo, localizado no pais ${pais} `)
 
+
+
